@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcoAngermann
-- 👀 I’m interested in codeing 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
