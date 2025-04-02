@@ -47,7 +47,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
     </picture>
   </div>
-
+<br>
   <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marcoangermann&show_icons=true&theme=dracula&locale=en" />
