@@ -40,18 +40,18 @@
 </div>
 
 <div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
-    </picture>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&locale=en&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" style="display: block; margin: auto;" />
+  </picture>
 </div>
-<div style="text-align: center;">
+
+<div style="text-align: center; margin-top: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" />
+    <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" style="display: block; margin: auto;" />
   </picture>
 </div>
+
