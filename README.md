@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoangermann&label=Profile%20views&color=0e75b6&style=flat" alt="marco-angermann" /> </p>
 <h3 align="center">Developer in training, Angular enthusiast from Germany</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/marco-angermann-7354a230b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/marco-angermann-7354a230b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoangermann" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -25,7 +25,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96"> 
