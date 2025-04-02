@@ -29,7 +29,7 @@
       <br>Docker
     </td>
     <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+        <img src="https://assets-v2.lottiefiles.com/a/b35bebee-1151-11ee-93b3-83fe4959bae4/HcOenZMAzm.gif" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
