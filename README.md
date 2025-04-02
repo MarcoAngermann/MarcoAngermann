@@ -39,19 +39,20 @@
 </table>
 </div>
 
-<div style="text-align: center;">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&locale=en&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" style="display: block; margin: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoangermann&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" width="50%" />
   </picture>
-</div>
+</p>
 
-<div style="text-align: center; margin-top: 20px;">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" style="display: block; margin: auto;" />
+    <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" width="50%" />
   </picture>
-</div>
+</p>
+
 
