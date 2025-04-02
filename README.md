@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoangermann&label=Profile%20views&color=0e75b6&style=flat" alt="marco-angermann" /> </p>
-<h3 align="center">Developer in training, Angular enthusiast from Germany</h3>
+<h3 align="center">Fullstack Developer in training, Angular enthusiast from Germany</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
