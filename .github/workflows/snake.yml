@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Täglich um Mitternacht
   workflow_dispatch:      # Manuell auslösbar
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
