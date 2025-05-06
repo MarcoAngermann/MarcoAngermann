@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Täglich um Mitternacht
+  workflow_dispatch:      # Manuell auslösbar
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate snake.svg
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: marcoangermann
+          outputs: |
+            ./github-snake.svg
+            ./github-snake-dark.svg
+            ./ocean.gif
+
+      - name: Commit & push the files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate GitHub Snake"
+          add: "*.svg ocean.gif"
