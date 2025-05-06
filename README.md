@@ -53,4 +53,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake.svg" />
     <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" width="50%" />
   </picture>
+</p>
+
 
