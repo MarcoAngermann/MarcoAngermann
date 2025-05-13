@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Täglich um Mitternacht
   workflow_dispatch:      # Manuell auslösbar
+  push:
+    branches:
+      - main              # Optional: Bei jedem Push auf main
 
 permissions:
   contents: write
@@ -11,7 +14,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate snake.svg
+    name: Generate GitHub Snake 🐍
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,12 +24,13 @@ jobs:
         with:
           github_user_name: marcoangermann
           outputs: |
-            ./github-snake.svg
-            ./github-snake-dark.svg
-            ./ocean.gif
+            ./github-snake.svg?palette=github-light
+            ./github-snake-dark.svg?palette=github-dark
+            ./ocean.gif?color_snake=#ffa500&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit & push the files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate GitHub Snake"
+          message: "🎉 Update GitHub Snake animation"
           add: "*.svg ocean.gif"
+
