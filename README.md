@@ -49,10 +49,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/marcoangermann/marcoangermann/blob/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/output/ocean.gif" width="500 height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marcoangermann/marcoangermann/blob/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/marcoangermann/marcoangermann/blob/main/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/marcoangermann/marcoangermann/blob/main/ocean.gif" width="50%" />
   </picture>
 </p>
+
 
 
