@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoangermann&label=Profile%20views&color=0e75b6&style=flat" alt="marco-angermann" /> </p>
-<h3 align="center">Fullstack Developer in training, Angular enthusiast from Germany</h3>
+<h3 align="center">Fullstack Developer from Germany</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-angermann-7354a230b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoangermann" height="30" width="40" /></a>
